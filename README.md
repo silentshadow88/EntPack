@@ -31,5 +31,10 @@ Please note that any modifications made to your IHU Atlas OS system may void the
 ## Reference
 <img src="https://user-images.githubusercontent.com/124480402/222115044-2132ddf2-d4dc-44f9-a0c5-557f1dec6792.jpg" width=50% height=30%>
 
-## Enjoy your new app,reach me at https://t.me/silentshadow88 if you have any questions or others.
 
+## Enjoy your new app,reach me at https://t.me/silentshadow88 if you have any questions or others.
+## Donate to my Cardano address:
+
+**Address:** addr1q8n7q8we6kywwrm5m3fphtam63xfznlu57upn427ddzvqe64tv9fylmdf7f6meuq2px52xydhpyqfjmz0e878wp940nsvkmuu5
+
+![QR Code for Cardano Address](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=addr1q8n7q8we6kywwrm5m3fphtam63xfznlu57upn427ddzvqe64tv9fylmdf7f6meuq2px52xydhpyqfjmz0e878wp940nsvkmuu5)
