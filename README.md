@@ -30,5 +30,6 @@ Please note that any modifications made to your IHU Atlas OS system may void the
 ## Reference
 <img src="https://user-images.githubusercontent.com/124480402/222115044-2132ddf2-d4dc-44f9-a0c5-557f1dec6792.jpg" width=50% height=30%>
 
-## Reach me at https://t.me/silentshadow88 if you have any question
-## Cardano:https://cardanoscan.io/address/01e7e01dd9d588e70f74dc521bafbbd44c914ffca7b819d55e6b44c067555b0a927f6d4f93ade780504d45188db84804cb627e4fe3b825abe7
+## Enjoy your new app,reach me at https://t.me/silentshadow88 if you have any questions or others.
+
+Enjoy your new app
