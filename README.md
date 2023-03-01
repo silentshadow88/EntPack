@@ -16,7 +16,7 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
 
 1.  Format the USB drive to FAT32.Download installation script [here.](https://drive.google.com/file/d/1Gx5zgQHDrDGMkRs9TgyVm0e4OJWqqvM-/view?usp=share_link)
 2.  Extract the downloaded file to the root directory of your USB drive.
-3.  Open the folder named **app** and then locate the **APK** file. Right-click on the APK file, choose **7zip**, and select **Open**.
+3.  Open the folder named **app** and then locate the **APK** file. Right-click on the APK file, choose **7zip**, and select **Open archive**.
 <img src="https://user-images.githubusercontent.com/124480402/222107456-c997757f-6345-4d81-89d2-2d2491274caf.JPG" width=50% height=30%>
 
 4. Locate the **lib** folder as shown in the image above, and open the **arm64-v8a** subfolder. You should see a number of files with the extension `.so`. Copy or drag and drop all these files to the `lib64` folder that you extracted earlier.
