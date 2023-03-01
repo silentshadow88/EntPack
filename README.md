@@ -35,7 +35,7 @@ Please note that any modifications made to your IHU Atlas OS system may void the
 ## Enjoy your new app,reach me at https://t.me/silentshadow88 if you have any questions.
 
 
-## Donate to my Cardano address:
+## Donate to my Cardano(ADA) address:
 
 **Address:** addr1q8n7q8we6kywwrm5m3fphtam63xfznlu57upn427ddzvqe64tv9fylmdf7f6meuq2px52xydhpyqfjmz0e878wp940nsvkmuu5
 
