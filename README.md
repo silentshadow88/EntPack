@@ -21,7 +21,7 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
 
 4. Locate the **lib** folder as shown in the image above, and open the **arm64-v8a** subfolder. You should see a number of files with the extension `.so`. Copy or drag and drop all these files to the `lib64` folder that you extracted earlier.
 5. Repeat step 4 for any additional APK files you wish to install. If an APK file does not have a **lib** folder, there is no need to copy any **.so** files.
-6. After finishing all steps, plug the USB drive into the USB port on the IHU and wait for the IHU to reboot itself. Once the reboot is complete, you can safely remove the USB drive.
+6. After finishing all steps, plug the USB drive into the USB port on the IHU and wait for the IHU to reboot itself,(take little bit long to reboot). Once the reboot is complete, you can safely remove the USB drive.
 7. If you can see that the new apps have been installed,then you can consider the installation to be successful.
 
 
