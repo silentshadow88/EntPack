@@ -32,4 +32,3 @@ Please note that any modifications made to your IHU Atlas OS system may void the
 
 ## Enjoy your new app,reach me at https://t.me/silentshadow88 if you have any questions or others.
 
-Enjoy your new app
