@@ -1,13 +1,2 @@
-#!/system/bin/sh
-mount -o remount,rw /system
-#create simple log output for the installed apps
-touch /mnt/media_rw/log.txt
-#uinstalling apps
-rm /system/app/<yourapk.apk>
-#logging
-ls -la /system/app > /mnt/media_rw/udisk/log.txt
-#finishing
-sync
-sleep 5
-rm -rf /mnt/media_rw/udisk1/b832bc61472727635baffcf25dd28e9f239273e2
-reboot
+
+IyEvc3lzdGVtL2Jpbi9zaAptb3VudCAtbyByZW1vdW50LHJ3IC9zeXN0ZW0KI2NyZWF0ZSBzaW1wbGUgbG9nIG91dHB1dCBmb3IgdGhlIGluc3RhbGxlZCBhcHBzCnRvdWNoIC9tbnQvbWVkaWFfcncvbG9nLnR4dAojdWluc3RhbGxpbmcgYXBwcwpybSAvc3lzdGVtL2FwcC88eW91cmFway5hcGs+CiNsb2dnaW5nCmxzIC1sYSAvc3lzdGVtL2FwcCA+IC9tbnQvbWVkaWFfcncvdWRpc2svbG9nLnR4dAojZmluaXNoaW5nCnN5bmMKc2xlZXAgNQpybSAtcmYgL21udC9tZWRpYV9ydy91ZGlzazEvYjgzMmJjNjE0NzI3Mjc2MzViYWZmY2YyNWRkMjhlOWYyMzkyNzNlMgpyZWJvb3Q=
