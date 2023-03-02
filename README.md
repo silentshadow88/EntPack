@@ -28,13 +28,13 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
 6. After finishing all steps, plug the USB drive into the USB port on the IHU and wait for the IHU to reboot itself,(take little bit longer to reboot). Once the reboot is complete, you can safely remove the USB drive.
 7. If you can see that the new apps have been installed,then you can consider the installation to be successful.
 
-## NOTE2:Please make sure to install a maximum of 8 apps per installation to ensure that all apps are fully installed.Consider using a USB 2.0 drive for the installation, as it will not take as much time for the IHU to reboot
+## NOTE2:Please make sure to install a maximum of 8 apps per installation to ensure that all apps are fully installed.Consider using a USB 2.0 drive for the installation, as it will not take as much time for the IHU to reboot.
 
 
 
 ## Uninstallation/Disabling Apps
  
- Goto Open Hidden Setting and Disable apps you dont need
+ Goto Open Hidden Setting and find App and disable apps you dont need.
 
 ## Disclaimer
 *Please note that any modifications made to your IHU Atlas OS system may void the manufacturer's warranty and can potentially harm or damage your device. Use this guide at your own risk. Im not responsible for any malfunctions, errors, or damages that may occur as a result of using this guide*
