@@ -29,7 +29,7 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
 
 
 ## Disclaimer
-Please note that any modifications made to your IHU Atlas OS system may void the manufacturer's warranty and can potentially harm or damage your device. Use this guide at your own risk. Im not responsible for any malfunctions, errors, or damages that may occur as a result of using this guide
+*Please note that any modifications made to your IHU Atlas OS system may void the manufacturer's warranty and can potentially harm or damage your device. Use this guide at your own risk. Im not responsible for any malfunctions, errors, or damages that may occur as a result of using this guide
 
 ## Reference
 <img src="https://user-images.githubusercontent.com/124480402/222115044-2132ddf2-d4dc-44f9-a0c5-557f1dec6792.jpg" width=50% height=30%>
