@@ -32,7 +32,7 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
 
 
 
-## Uninstallation
+## Uninstallation/Disabling Apps
  
  Goto Open Hidden Setting and Disable apps you dont need
 
