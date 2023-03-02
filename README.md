@@ -1,7 +1,7 @@
 # EntPack
 Pre-installation package of entertainment apps for PX50 Atlas OS
 
-## This installation apps includes:
+## This installation includes:
   - NewPipe
   - Netflix
   - Disney+ Hotstar
@@ -10,7 +10,7 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
   - AIMP Player
   - MicroG (with setting at apps)
 
-## Note:This installation method requires 7zip to be installed on your computer. Please download and install 7zip from [here](https://www.7-zip.org/) if you don't have it already.Pleased read the steps carefully before proceed.
+## Note1:This installation method requires 7zip to be installed on your computer. Please download and install 7zip from [here](https://www.7-zip.org/) if you don't have it already.Pleased read the steps carefully before proceed.
 
 ## Steps
 
@@ -24,6 +24,8 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
 5. Repeat step 4 for any additional APK files you wish to install. If an APK file does not have a **'lib'** folder, there is no need to copy any **'.so'** files. If you do not wish to install an APK file that you doesnt need, simply delete it.
 6. After finishing all steps, plug the USB drive into the USB port on the IHU and wait for the IHU to reboot itself,(take little bit longer to reboot). Once the reboot is complete, you can safely remove the USB drive.
 7. If you can see that the new apps have been installed,then you can consider the installation to be successful.
+
+## Note2:Please make sure to install a maximum of 8 apps per installation to ensure that all apps are fully installed.
 
 
 ## Disclaimer
