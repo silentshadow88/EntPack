@@ -1,4 +1,4 @@
-# EntPack
+# PX50App
 Pre-installation package of entertainment apps for PX50 Atlas OS
 
 ## This installation includes:
