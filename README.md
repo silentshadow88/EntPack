@@ -33,7 +33,7 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
 
 
 ## Uninstallation
-1.Steps to unistallation [here.](https://github.com/silentshadow88/PX50App/blob/25c100d5c48b050e6180f90a6237ab9e1bf18281/README2.md)
+1.Steps to unistallation [here.](README2.md)
 
 ## Disclaimer
 *Please note that any modifications made to your IHU Atlas OS system may void the manufacturer's warranty and can potentially harm or damage your device. Use this guide at your own risk. Im not responsible for any malfunctions, errors, or damages that may occur as a result of using this guide*
