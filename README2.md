@@ -1,6 +1,8 @@
-## 
+## NOTE:This uninstallation method requires Notepad++ to be installed on your computer. Please download and install Notepad++ if you don't have it already.
 
+# Removing Apps
 
+# Steps
 
 1. Download the uninstallation script and extract it to the root directory of your USB drive. Before doing so, please make sure to format the USB drive.
 2. Open the **Notepad++** on your pc/laptop and create **New** file
