@@ -10,7 +10,7 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
   - AIMP Player
   - MicroG (with setting at apps)
 
-## Note1:This installation method requires 7zip to be installed on your computer. Please download and install 7zip from [here](https://www.7-zip.org/) if you don't have it already.Pleased read the steps carefully before proceed.
+## NOTE1:This installation method requires 7zip to be installed on your computer. Please download and install 7zip from [here](https://www.7-zip.org/) if you don't have it already.Pleased read the steps carefully before proceed.
 
 ## Steps
 
@@ -25,7 +25,7 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
 6. After finishing all steps, plug the USB drive into the USB port on the IHU and wait for the IHU to reboot itself,(take little bit longer to reboot). Once the reboot is complete, you can safely remove the USB drive.
 7. If you can see that the new apps have been installed,then you can consider the installation to be successful.
 
-## Note2:Please make sure to install a maximum of 8 apps per installation to ensure that all apps are fully installed.
+## NOTE2:Please make sure to install a maximum of 8 apps per installation to ensure that all apps are fully installed.
 
 
 ## Disclaimer
