@@ -12,6 +12,9 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
 
 ## NOTE1:This installation method requires 7zip to be installed on your computer. Please download and install 7zip from [here](https://www.7-zip.org/) if you don't have it already.Pleased read the steps carefully before proceed.
 
+
+
+## Installation: 
 ## Steps
 
 1.  Format the USB drive to FAT32.Download installation script [here.](https://drive.google.com/file/d/1Gx5zgQHDrDGMkRs9TgyVm0e4OJWqqvM-/view?usp=share_link)
@@ -26,6 +29,10 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
 7. If you can see that the new apps have been installed,then you can consider the installation to be successful.
 
 ## NOTE2:Please make sure to install a maximum of 8 apps per installation to ensure that all apps are fully installed.
+
+
+
+## Uninstallation
 
 
 ## Disclaimer
