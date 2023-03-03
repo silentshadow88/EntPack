@@ -47,8 +47,6 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
 ## Enjoy your new app,reach me at https://t.me/silentshadow88 if you have any questions.
 
 
-## Donate to my Cardano(ADA):
+## Donate to my TnG:
 
-**Address:** addr1q8n7q8we6kywwrm5m3fphtam63xfznlu57upn427ddzvqe64tv9fylmdf7f6meuq2px52xydhpyqfjmz0e878wp940nsvkmuu5
-
-![QR Code for Cardano Address](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=addr1q8n7q8we6kywwrm5m3fphtam63xfznlu57upn427ddzvqe64tv9fylmdf7f6meuq2px52xydhpyqfjmz0e878wp940nsvkmuu5)
+![photo_2023-03-03_08-38-56](https://user-images.githubusercontent.com/124480402/222602286-c5e12f0a-ee4e-4170-920e-2e7b8d044eb2.jpg)
