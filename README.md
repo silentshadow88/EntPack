@@ -34,8 +34,9 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
 
 ## Uninstallation/Disabling Apps
  
- 1. Goto Open Hidden Setting,find App setting and disable apps you dont need.
- 2. For completely removing app go [here](README2.md)
+ 1. For disabling an app goto Open Hidden Setting,find App setting and disable apps you dont need.
+ 2. For completely removing app download [here](https://drive.google.com/file/d/13D5N7csXqolD3LJK1bmxZyLxCixswkY1/view?usp=share_link)
+ 3. Download,extract and plug to IHU,wait until reboot.Done
 
 ## Disclaimer
 *Please note that any modifications made to your IHU Atlas OS system may void the manufacturer's warranty and can potentially harm or damage your device. Use this guide at your own risk. Im not responsible for any malfunctions, errors, or damages that may occur as a result of using this guide*
