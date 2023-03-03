@@ -32,7 +32,7 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
 
 
 
-## Uninstallation/Disabling Apps
+## Uninstallating/Disabling Apps
  
  1. For disabling an app goto Open Hidden Setting,find App setting and disable apps you dont need.
  2. For completely removing app download [here](https://drive.google.com/file/d/13D5N7csXqolD3LJK1bmxZyLxCixswkY1/view?usp=share_link)
