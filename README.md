@@ -1,7 +1,7 @@
 # PX50App
 Pre-installation package of entertainment apps for PX50 Atlas OS
 
-## This installation includes:
+## This pre-installation package includes:
   - NewPipe
   - Netflix
   - Disney+ Hotstar
