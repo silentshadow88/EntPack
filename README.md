@@ -5,13 +5,10 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
   - NewPipe
   - Netflix
   - Disney+ Hotstar
-  - MSTV
   - Equalizer
   - AIMP Player
-  - MicroG (with setting at apps)
-
+  
 # NOTE1:This installation method requires 7zip to be installed on your computer. Please download and install 7zip from [here](https://www.7-zip.org/) if you don't have it already.Pleased read the step FIRST before proceed for the installation.
-
 
 
 ## Installation: 
@@ -35,7 +32,7 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
 ## Uninstalling/Disabling Apps
  
  1. For disabling an app goto Open Hidden Setting,find App setting and disable apps you dont need.
- 2. For completely removing app download [here.]()
+ 2. For completely removing app download [here.](https://drive.google.com/file/d/1O8pDeNqy9OAVitnJ58VGrTUJ47S92rMA/view?usp=share_link)
  3. Download,extract and plug to IHU,wait until reboot.Done
  
  ## Removing individual app and own app add ons follow guide [here.](https://github.com/silentshadow88/PX50AppRemover)
