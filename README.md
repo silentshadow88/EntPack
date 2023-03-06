@@ -27,7 +27,7 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
 
 ## NOTE2:Please make sure to install a maximum of 8 apps per installation to ensure that all apps are fully installed.Consider using a USB 2.0 drive for the installation, as it will not take as much time for the IHU to reboot.
 
-
+## NOTE3::For IPTV app installation,PLEASED EXTRACTED ARMEABI-V7A ONLY TO LIB FOLDER,NOT ARM64-V8A AS IT WILL CRASH THE WEATHER APP ON IHU
 
 ## Uninstalling/Disabling Apps
  
