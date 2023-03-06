@@ -8,7 +8,7 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
   - Equalizer
   - AIMP Player
   
-# NOTE1:This installation method requires 7zip to be installed on your computer. Please download and install 7zip from [here](https://www.7-zip.org/) if you don't have it already.Pleased read the step FIRST before proceed for the installation.
+# NOTE1:This installation method requires 7zip to be installed on your computer. Please download and install 7zip from [here](https://www.7-zip.org/) if you don't have it already.Pleased read the step CAREFULLY before proceed for the installation.
 
 
 ## Installation: 
