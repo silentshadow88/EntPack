@@ -4,7 +4,7 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
 ## This pre-installation package includes:
   - NewPipe
   - Netflix
-  - Disney+ Hotstar
+  - Disney+ Hotstar(for exec/std variant only)
   - Equalizer
   - AIMP Player
   
