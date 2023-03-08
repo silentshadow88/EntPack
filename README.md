@@ -1,4 +1,4 @@
-## IMPORTAN FOR USER WHO NEED TO INSTALL OWN APPS PLEASED VERIFY YOU APPS FIRST BEFORE PROCEEDING FOR THE INSTALLATION,FOLLOW THE GUIDE [HERE](OwnAppInstall.md)
+## IMPORTANT: For users who need to install their own apps, please verify your apps first before proceeding with the installation. Follow the guide [here](OwnAppInstall.md)
 
 # PX50App
 Pre-installation package of entertainment apps for PX50 Atlas OS
