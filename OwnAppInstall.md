@@ -1,4 +1,4 @@
-## Make sure to verify the library file before proceeding with the installation of your own apps, in order to avoid replacing the library file in the system with the wrong one,follow the steps below,an some advice pleased do not install too much apps to your IHU;
+## Make sure to verify the library file before proceeding with the installation of your own apps, in order to avoid replacing the library file in the system with the wrong one,follow the steps below,and some advice pleased do not install too much apps to your IHU;
 
 1.  Download the system library file [here](https://drive.google.com/file/d/1ZNA5vJ7sN2Wk0kk08OFMKNcQIkII2R3d/view?usp=share_link) and extract to you computer.Open the APK file with `7-Zip`,locate the `lib` folder open it and open the `arm64-v8a` folder.
 
