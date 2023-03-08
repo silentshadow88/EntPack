@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/124480402/223598768-04345c67-5825-4ccd-bbe9-cec1785f1b42.JPG" width=50% height=30%>
 
   
-2.  Drag and drop the `arm64-v8a` lib content to this `VERIFYLIB` folder you just extract.
+2.  Drag and drop **all** the `arm64-v8a` lib content to this `VERIFYLIB` folder you just extract.
 
 <img src="https://user-images.githubusercontent.com/124480402/223599562-af5d4ef8-648d-48b2-9da7-b24182a4c41f.JPG" width=50% height=30%>
 
