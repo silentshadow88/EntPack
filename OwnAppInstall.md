@@ -11,6 +11,7 @@
 
 3.  If theres are popup on windows that prompt you to replacing file,**DO NOT** proceed for the installation,and close the popup.
 
-<img src="https://user-images.githubusercontent.com/124480402/223599702-f05aac0b-eda9-421e-9be5-7af125121b4c.JPG" width=50% height=30%>
+<img src="https://user-images.githubusercontent.com/124480402/223625980-0a0ae4d3-1e42-4c99-a83d-5fad9ba0d933.JPG" width=50% height=30%>
 
 4.  If the APK file does not contain any lib file then you are safe to install the app.
+
