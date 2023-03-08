@@ -1,3 +1,6 @@
+## Disclaimer
+**Please note that any modifications made to your IHU Atlas OS system may void the manufacturer's warranty and can potentially harm or damage your device. Use this guide at your own risk. Im not responsible for any malfunctions, errors, or damages that may occur as a result of using this guide**
+
 ## <p>&#x26A0;</p>IMPORTANT: For users who need to install their own apps, please verify your apps first before proceeding with the installation. Follow the guide [here.](OwnAppInstall.md)
 
 # PX50App
@@ -38,9 +41,6 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
  3. Download,extract and plug to IHU,wait until reboot.Done
  
  ## Removing individual app and own app add ons follow guide [here.](https://github.com/silentshadow88/PX50AppRemover)
-
-## Disclaimer
-*Please note that any modifications made to your IHU Atlas OS system may void the manufacturer's warranty and can potentially harm or damage your device. Use this guide at your own risk. Im not responsible for any malfunctions, errors, or damages that may occur as a result of using this guide*
 
 ## Reference
 <img src="https://user-images.githubusercontent.com/124480402/222115044-2132ddf2-d4dc-44f9-a0c5-557f1dec6792.jpg" width=50% height=30%>
