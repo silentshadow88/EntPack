@@ -9,7 +9,7 @@
 
 <img src="https://user-images.githubusercontent.com/124480402/223599562-af5d4ef8-648d-48b2-9da7-b24182a4c41f.JPG" width=50% height=30%>
 
-3.  If theres are popup on windows that show you replacing file,**DO NOT** proceed for the installation.
+3.  If theres are popup on windows that prompt you to replacing file,**DO NOT** proceed for the installation.
 
 <img src="https://user-images.githubusercontent.com/124480402/223599702-f05aac0b-eda9-421e-9be5-7af125121b4c.JPG" width=50% height=30%>
 
