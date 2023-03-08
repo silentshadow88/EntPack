@@ -1,4 +1,4 @@
-## Disclaimer
+## <p>&#x26A0;</p>Disclaimer
 **Please note that any modifications made to your IHU Atlas OS system may void the manufacturer's warranty and can potentially harm or damage your device. Use this guide at your own risk. Im not responsible for any malfunctions, errors, or damages that may occur as a result of using this guide**
 
 ## <p>&#x26A0;</p>IMPORTANT: For users who need to install their own apps, please verify your apps first before proceeding with the installation. Follow the guide [here.](OwnAppInstall.md)
