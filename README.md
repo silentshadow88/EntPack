@@ -46,6 +46,6 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
 <img src="https://user-images.githubusercontent.com/124480402/222115044-2132ddf2-d4dc-44f9-a0c5-557f1dec6792.jpg" width=50% height=30%>
 
 
-## Enjoy your new app,reach me at https://t.me/silentshadow88 if you have any questions or donation,TQ.
+## Enjoy your new app,reach me at https://t.me/silentshadow88 if you have any questions,TQ.
 
 
