@@ -1,5 +1,7 @@
 ## Make sure to verify the library file before proceeding with the installation of your own apps, in order to avoid replacing the library file in the system with the wrong one,follow the steps below,and some advice pleased do not install too much apps to your IHU;
 
+## NOTE:PLEASED NOTED THAT IPTV APP DOES NOT WORK ON THIS METHOD,PLEASED AVOID INSTALLING IPTV OR OTHER APP THAT NOT FROM APKPURE OR APKMIRROR
+
 1.  Download the system library file [here](https://drive.google.com/file/d/1ZNA5vJ7sN2Wk0kk08OFMKNcQIkII2R3d/view?usp=share_link) and extract to you computer.Open the APK file with `7-Zip`,locate the `lib` folder open it and open the `arm64-v8a` folder.
 
 <img src="https://user-images.githubusercontent.com/124480402/223598768-04345c67-5825-4ccd-bbe9-cec1785f1b42.JPG" width=50% height=30%>
