@@ -30,9 +30,7 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
 6. After finishing all steps, plug the USB drive into the USB port on the IHU and wait for the IHU to reboot itself,(take little bit longer to reboot). Once the reboot is complete, you can safely remove the USB drive.
 7. If you can see that the new apps have been installed,then you can consider the installation to be successful.
 
-## NOTE2:Please make sure to install a maximum of 8 apps per installation to ensure that all apps are fully installed.Consider using a USB 2.0 drive for the installation, as it will not take as much time for the IHU to reboot.
 
-## NOTE3:PLEASED NOTE THAT IPTV APP DOES NOT WORK ON THIS METHOD,PLEASED AVOID INSTALLING IPTV OR OTHER APP THAT NOT FROM APKPURE OR APKMIRROR
 
 ## Uninstalling/Disabling Apps
  
