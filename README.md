@@ -19,7 +19,7 @@ Pre-installation package of entertainment apps for PX50 Atlas OS
 ## Installation: 
 ## Steps
 
-1.  Format the USB drive to FAT32.Download installation package [here](https://anonfiles.com/AaT1l4f2zb/atlas_2_zip)
+1.  Format the USB drive to FAT32.Download installation package [here](https://anonfiles.com/aT1l4f2zb/atlas_2_zip) 
 2.  Extract the downloaded file to the root directory of your USB drive.
 3.  Open the folder named **app** and then locate the **APK** file. Right-click on the APK file, choose **7-Zip**, and select **open archive**.
 
